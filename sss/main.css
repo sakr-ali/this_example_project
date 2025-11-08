@@ -1,0 +1,12 @@
+* {
+  text-align: center;
+}
+
+.s {
+  background-color: aqua;
+  text-align: center;
+  width: 300px;
+  margin: auto;
+  padding: 30px;
+  margin-top: 180px;
+}
